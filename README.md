@@ -1,7 +1,7 @@
 # Sudoku
 This is a simple game about Sudoku 
 
-
+> 项目地址 https://github.com/yhh2908307500/Sudoku
 
 # 基本背景：
 1. 以前就很喜欢玩数独，突发奇想，搞了这个数独小游戏
